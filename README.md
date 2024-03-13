@@ -1,5 +1,7 @@
 # This is the most powerful wikipedia scraper.
 
+# USAGE
+
 **1) Clone this repository :** `git clone https://github.com/ssbagpcm/wikipedia-scraper.git`
 
 **2) Create a new folder named** `wscrape`
