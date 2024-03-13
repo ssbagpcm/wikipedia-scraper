@@ -23,7 +23,7 @@ def extraire_articles_wikipedia(max_articles):
 
         liens_visites.add(url_actuelle)
 
-        with open("H:\\sciences\\hello\\articles_extraits.txt", "a", encoding="utf-8") as fichier:
+        with open("articles_extraits.txt", "a", encoding="utf-8") as fichier:
             fichier.write(f"Titre : {titre.text}\nURL : {url_actuelle}\n\nContenu :\n{contenu}\n\n")
 
         time.sleep(0.1)
