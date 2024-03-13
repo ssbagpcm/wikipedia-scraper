@@ -1,4 +1,4 @@
-# This is the most powerful wikipedia scraper
+# This is the most powerful wikipedia scraper.
 
 **1) Clone this repository :** `git clone https://github.com/ssbagpcm/wikipedia-scraper.git`
 
